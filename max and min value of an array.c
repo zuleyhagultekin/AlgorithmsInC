@@ -42,7 +42,7 @@ int min_value(int arr[],int size)
         if(arr[i]<min)
         {
             min=arr[i];
-            printf("%d",min);
+
         }
     }
     return min;
