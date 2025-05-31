@@ -24,7 +24,7 @@ int main()
     {
         if(counter[i]>0)
         {
-            printf("%c = %d \n",i+65,counter[i]);
+            printf("%c = %d \n",i+97,counter[i]);
         }
     }
     return 0;
